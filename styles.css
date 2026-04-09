@@ -1231,7 +1231,7 @@ textarea {
 }
 
 .faq-item__panel.is-open {
-  max-height: 400px;
+  max-height: 720px;
 }
 
 .faq-item__answer {
