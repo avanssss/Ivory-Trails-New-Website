@@ -171,7 +171,7 @@ textarea {
 /* Scroll-reveal animation base state */
 /* TEMP FIX — disable reveal animations completely */
 .reveal {
-  opacity: 1 !important;
+  opacity: 0.1 !important;
   transform: none !important;
   transition: none !important;
 }
