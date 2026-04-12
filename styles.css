@@ -1243,6 +1243,20 @@ textarea {
   max-width: 68ch;
 }
 
+.faq__cta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: var(--space-lg);
+  padding-bottom: var(--space-sm);
+}
+
+.faq__cta-btn {
+  min-height: 48px;
+  min-width: 10rem;
+  text-align: center;
+}
+
 /* -----------------------------------------------------------------------------
    13. Contact Section
    ----------------------------------------------------------------------------- */
